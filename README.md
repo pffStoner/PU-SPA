@@ -1,2 +1,0 @@
-# PU-SPA
-spa
